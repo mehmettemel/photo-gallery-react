@@ -1,0 +1,5 @@
+  "json-server":"json-server--watch db.json --port 5000",
+  "dev":"concurrently \"npm start\" \"npm run json-server\"",
+
+  written in script section while working with fake database
+  we installed  json-server and concurrently
